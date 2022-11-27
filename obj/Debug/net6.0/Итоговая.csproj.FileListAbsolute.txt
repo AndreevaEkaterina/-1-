@@ -1,0 +1,15 @@
+D:\Документы\11.Разработчик\Итоговая\bin\Debug\net6.0\Итоговая.exe
+D:\Документы\11.Разработчик\Итоговая\bin\Debug\net6.0\Итоговая.deps.json
+D:\Документы\11.Разработчик\Итоговая\bin\Debug\net6.0\Итоговая.runtimeconfig.json
+D:\Документы\11.Разработчик\Итоговая\bin\Debug\net6.0\Итоговая.dll
+D:\Документы\11.Разработчик\Итоговая\bin\Debug\net6.0\Итоговая.pdb
+D:\Документы\11.Разработчик\Итоговая\obj\Debug\net6.0\Итоговая.csproj.AssemblyReference.cache
+D:\Документы\11.Разработчик\Итоговая\obj\Debug\net6.0\Итоговая.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\11.Разработчик\Итоговая\obj\Debug\net6.0\Итоговая.AssemblyInfoInputs.cache
+D:\Документы\11.Разработчик\Итоговая\obj\Debug\net6.0\Итоговая.AssemblyInfo.cs
+D:\Документы\11.Разработчик\Итоговая\obj\Debug\net6.0\Итоговая.csproj.CoreCompileInputs.cache
+D:\Документы\11.Разработчик\Итоговая\obj\Debug\net6.0\Итоговая.dll
+D:\Документы\11.Разработчик\Итоговая\obj\Debug\net6.0\refint\Итоговая.dll
+D:\Документы\11.Разработчик\Итоговая\obj\Debug\net6.0\Итоговая.pdb
+D:\Документы\11.Разработчик\Итоговая\obj\Debug\net6.0\Итоговая.genruntimeconfig.cache
+D:\Документы\11.Разработчик\Итоговая\obj\Debug\net6.0\ref\Итоговая.dll
